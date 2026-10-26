@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 [//]: # (# GoVigyan)
 
 [//]: # ()
@@ -504,3 +503,6 @@
 # GoVigyan
 It detects the breed of the cows and buffalo with 75% - 80% of accuracy .
 >>>>>>> 369e7b687286e46a3d576ef68ecffa15bf75ecaf
+=======
+# Govigyan
+>>>>>>> 49c11373642890bcfe4f34fb86795253a0adf840
